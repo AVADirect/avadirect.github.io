@@ -1,0 +1,2 @@
+# Redirect 
+avadirect.github.io
